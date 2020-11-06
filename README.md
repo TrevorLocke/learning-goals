@@ -7,6 +7,7 @@
 ## CSS
 1. Box Model 
 2. CSS Grid
+3. CSS Animations
 
 ## JavaScript
 1. DOM Manipulation 
